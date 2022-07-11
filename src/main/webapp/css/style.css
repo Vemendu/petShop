@@ -1,0 +1,14 @@
+#register_button_div, #basket_button_div {
+    display: inline-block;
+}
+
+.header {
+    width: 100%;
+    height: max-content;
+    align-content: end;
+}
+
+.mainDiv {
+    width: 100%;
+}
+
